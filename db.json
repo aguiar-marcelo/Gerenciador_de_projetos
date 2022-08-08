@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "projeto1",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "serv1",
+          "cost": "1000",
+          "description": "teste",
+          "id": "e0fd1d67-f77e-4e95-8da4-6c4c31d7a61a"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
